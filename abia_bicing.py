@@ -1,6 +1,5 @@
 import random
 
-
 class Estacion(object):
     """
     Clase que representa una estación de Bicing
