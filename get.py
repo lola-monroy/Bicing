@@ -1,3 +1,4 @@
+#hollaaa
 class Estado(object):
     def __init__(self, estaciones):
        #constructor de Estado. 
